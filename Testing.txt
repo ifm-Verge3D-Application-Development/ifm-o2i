@@ -2,4 +2,9 @@
 Testing GIT for ifm
 
 edited this
-ABC
+
+
+cool thing
+
+
+one more thing
